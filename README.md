@@ -12,6 +12,8 @@ This project includes the following implementations:<br>
 
 ## Demonstration
 ### Feature Extraction with HSV color space
+Convert image to HSV color space.<br>
+Extract blue and black features and combine them.<br>
 ![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/FeatureExtraction.jpg)<br>
 
 ### Morphology:
@@ -22,7 +24,7 @@ Four common types of Morphological Operations<br>
 i. Erosion, ii. Dilation, iii. Opening, iv. Closing.<br>
 ![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/Morphology.jpg)<br>
 
-Hole Filling<br>
+Fill the hole with the closing operation that iterates 16 times.<br>
 ![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/HoleFilling.jpg)<br>
 
 ### Canny Edge Detection:
