@@ -12,12 +12,14 @@ This project includes the following implementations:<br>
 
 ## Demonstration
 ### Feature Extraction with HSV color space
-![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/Original.jpg)<br>
+![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/FeatureExtraction.jpg)<br>
 
 ### Morphology:
-i. Erosion
-ii. Dilation
-iii. Opening
-iv. Closing
+Using three kind of kernels as shown below.<br>
+![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/MorphologyKernel.jpg)<br>
+
+i. Erosion, ii. Dilation, iii. Opening, iv. Closing.<br>
+![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/Morphology.jpg)<br>
+
 
 
