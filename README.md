@@ -9,6 +9,9 @@ This project includes the following implementations:<br>
 4. Thresholding (Binarization).
 
 ## Results
+Background matting by Morphology operations.<br>
+Adaptive binarization by Gaussian mean weighting.<br>
+![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/Results.jpg)<br>
 
 ## Original Image
 ![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/Original.jpg)<br>
