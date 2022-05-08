@@ -15,11 +15,14 @@ This project includes the following implementations:<br>
 ![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/FeatureExtraction.jpg)<br>
 
 ### Morphology:
-Using three kind of kernels as shown below.<br>
+1. Three kind of kernels as shown below.<br>
 ![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/MorphologyKernel.jpg)<br>
 
+2. Four common types of Morphological Operations
 i. Erosion, ii. Dilation, iii. Opening, iv. Closing.<br>
 ![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/Morphology.jpg)<br>
 
+3. Hole Filling
+![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/HoleFilling.jpg)<br>
 
 
