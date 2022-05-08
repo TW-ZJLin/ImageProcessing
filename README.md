@@ -25,4 +25,12 @@ i. Erosion, ii. Dilation, iii. Opening, iv. Closing.<br>
 Hole Filling<br>
 ![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/HoleFilling.jpg)<br>
 
+### Canny Edge Detection:
+Blur grayscale images with Gaussian blur.<br>
+Use canny to detect image edge.<br>
+![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/CannyEdgeDetection.jpg)<br>
 
+### Thresholding (Binarization):
+Compare three binarization methods: 1.Normal Thresholding, 2.Adaptive Mean Thresholding, 3.Adaptive Gaussian Thresholding.<br>
+And compare the effect of blurring on image binarization.<br>
+![](https://github.com/TW-ZJLin/ImageProcessing/blob/main/Figures/Thresholding.jpg)<br>
